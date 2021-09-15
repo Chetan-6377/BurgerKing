@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/BurgerKing/static/css/main.ed5d8411.chunk.css",
+    "main.js": "/BurgerKing/static/js/main.a44df022.chunk.js",
+    "main.js.map": "/BurgerKing/static/js/main.a44df022.chunk.js.map",
+    "runtime-main.js": "/BurgerKing/static/js/runtime-main.7a08cd3e.js",
+    "runtime-main.js.map": "/BurgerKing/static/js/runtime-main.7a08cd3e.js.map",
+    "static/js/2.661c7ae7.chunk.js": "/BurgerKing/static/js/2.661c7ae7.chunk.js",
+    "static/js/2.661c7ae7.chunk.js.map": "/BurgerKing/static/js/2.661c7ae7.chunk.js.map",
+    "index.html": "/BurgerKing/index.html",
+    "static/css/main.ed5d8411.chunk.css.map": "/BurgerKing/static/css/main.ed5d8411.chunk.css.map",
+    "static/js/2.661c7ae7.chunk.js.LICENSE.txt": "/BurgerKing/static/js/2.661c7ae7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a08cd3e.js",
+    "static/js/2.661c7ae7.chunk.js",
+    "static/css/main.ed5d8411.chunk.css",
+    "static/js/main.a44df022.chunk.js"
+  ]
+}
