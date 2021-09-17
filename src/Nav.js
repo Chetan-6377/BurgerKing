@@ -36,7 +36,7 @@ const Nav = () => {
                                     <a class="nav-link ">About Us</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#">My Card</a>____
+                                    <a class="nav-link" href="#">My Card</a>
                                 </li>
                             </ul>
                         </div>

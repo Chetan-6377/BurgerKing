@@ -11,8 +11,8 @@ const About = () => {
                             <hr />
                             <p className="fs-2 main-para">We serve you freshly made Burger, Pizza, Pasta,
                                 Sandwitch, Wraps, Shakes and
-                                many more....Customers love to eat and spend their quality time here.Burger Harbour is
-                                currently present in Hisar.</p>
+                                many more....Customers love to eat and spend their quality time here.Burger King is
+                                currently present in Delhi.</p>
                         </div>
                         <div className="col-lg-3 col-md-3 col-sm-11">
                             <h3 className="main-heading">Important Links</h3>
@@ -55,22 +55,21 @@ const About = () => {
                                 <div className="col-lg-2 col-2 service-icons"><i className="text-white fa-2x fa fa-map-marker"></i>
                                 </div>
                                 <div className="col-lg-10  col-10 service-text">
-                                    <p className=" fs-4 text-white">SSB 1&2 PLA, Shopping Complex Near Town Park, Hisar, Haryana
-                                        (125001)</p>
+                                    <p className=" fs-4 text-white">xyz colony near bus stand</p>
                                 </div>
                             </div>
                             <div className="flex">
                                 <div className="col-lg-2 col-2 service-icons"><i className=" text-white fa-2x fa fa-envelope"></i>
                                 </div>
                                 <div className="col-lg-10  col-10 service-text">
-                                    <p className=" fs-4 text-white">Info @burgerhurbour.com</p>
+                                    <p className=" fs-4 text-white">xyz@gmail.com</p>
                                 </div>
                             </div>
                             <div className="flex">
                                 <div className="col-lg-2 col-2 service-icons "><i className=" text-white fa-2x fa fa-phone"></i>
                                 </div>
                                 <div className="col-lg-10  col-10 service-text">
-                                    <p className=" fs-4 text-white">+91 7206324915
+                                    <p className=" fs-4 text-white">+91 9876543210
                                     </p>
                                 </div>
                             </div>

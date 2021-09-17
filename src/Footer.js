@@ -15,7 +15,7 @@ const Footer = () => {
                             <a href=""><i className="  fa-2x fab fa-linkedin "></i></a>
                         </div>
                     </div>
-                    <p className="fs-4 main-para">@2021 BURGER HARBOUR ALL RIGHTS RESERVED.</p>
+                    <p className="fs-4 main-para">@2021 BURGER King ALL RIGHTS RESERVED.</p>
                 </div>
             </section>
         </>

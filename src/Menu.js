@@ -5,7 +5,7 @@ const Menu = () => {
         <>
             <section className="menu container-fluid">
                 <div className="row" >
-                    <div className=" col-lg-7 col-md-7 col-sm-12 our_menu">
+                    <div className=" col-lg-7 col-md-7 col-sm-12 our_menu order-lg-first order-last">
                         <div >
                             <h1 className="main-heading">Let's Checkout Our Big Family Menu!</h1>
                         </div>
@@ -22,7 +22,7 @@ const Menu = () => {
                             </div>
                         </div>
                     </div>
-                    <div className="p-0 col-lg-5 col-md-5 col-sm-12 menu_img">
+                    <div className="p-0 col-lg-5 col-md-5 col-sm-12 menu_img order-md-last order-sm-first">
                         <img src="https://images.pexels.com/photos/1893557/pexels-photo-1893557.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="" className="w-100 h-100" />
                     </div>
                 </div>
